@@ -23,7 +23,7 @@ Feel free to explore these projects and more in my repositories!
 
 ## Let's Connect!
 
-- 🌐 [Personal Website](https://bjeglerud.com)
+- 🌐 [Personal Website](https://mariusbjeglerud-portefolio.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marius-bjeglerud-5606bb223/?originalSubdomain=no)
 
 Feel free to reach out on LinkedIn or explore my personal site for more about me!
