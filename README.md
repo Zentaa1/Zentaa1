@@ -15,9 +15,9 @@ I'm a front-end enthusiast exploring the realms of web development. My interests
 
 Here are a few projects I've worked on:
 
-1. **[Gamehub](https://github.com/Zentaa1/Gamehub):** A dynamic webstore tailored for gamers.
-2. **[Community Science Museum](https://github.com/Zentaa1/SemesterProject1):** An interactive platform designed for children interested in visiting a science museum.
-3. **[StreetDreams](https://github.com/Noroff-FEU-Assignments/project-exam-1-Zentaa1):** A platform for car enthusiasts showcasing member-generated content.
+1. **[Staynest](https://staynest-pe.netlify.app/):**.
+2. **[ShopExtra](https://marius-jsframework.netlify.app/):**.
+3. **[AuctionPal](https://auctionpal.netlify.app/):**.
 
 Feel free to explore these projects and more in my repositories!
 
